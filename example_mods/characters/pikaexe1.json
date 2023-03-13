@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lost Pik Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Lost Pik Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				81
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Lost Pik Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lost Pik Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Lost Pik Sing Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lost Pikachu Assets Gone",
+	"position": [
+		-10,
+		-590
+	],
+	"healthicon": "icon-pikaexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		583,
+		810
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

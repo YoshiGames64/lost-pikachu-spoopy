@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lost Sliver Assets Pikachu.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="Lost Pik Sing Up0000" x="4443" y="4096" width="1399" height="2040" frameX="-362" frameY="-4" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Up0001" x="5842" y="4096" width="1399" height="2040" frameX="-362" frameY="-4" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Up0002" x="7494" y="0" width="1399" height="2040" frameX="-362" frameY="-4" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Up0003" x="7494" y="2040" width="1399" height="2040" frameX="-362" frameY="-4" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Left0000" x="7494" y="4080" width="1371" height="1931" frameX="-303" frameY="-110" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Left0001" x="1437" y="6143" width="1371" height="1931" frameX="-303" frameY="-110" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Left0002" x="2808" y="6143" width="1371" height="1931" frameX="-303" frameY="-110" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Left0003" x="4179" y="6143" width="1371" height="1931" frameX="-303" frameY="-110" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Down0000" x="8893" y="3385" width="1386" height="1501" frameX="-296" frameY="-461" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Down0001" x="8893" y="1882" width="1386" height="1503" frameX="-296" frameY="-459" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Down0002" x="8893" y="4886" width="1430" height="1498" frameX="-252" frameY="-464" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Down0003" x="8893" y="6384" width="1430" height="1497" frameX="-252" frameY="-465" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Idle0000" x="5867" y="2047" width="1402" height="2044" frameX="-362" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Idle0001" x="4311" y="2047" width="1402" height="2044" frameX="-362" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Idle0002" x="1639" y="4096" width="1402" height="2044" frameX="-362" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Idle0003" x="3041" y="4096" width="1402" height="2044" frameX="-362" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Right0000" x="1437" y="2048" width="1556" height="2047" frameX="-384" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Right0001" x="4311" y="0" width="1556" height="2047" frameX="-384" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Right0002" x="5867" y="0" width="1627" height="2047" frameX="-383" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Sing Right0003" x="0" y="4096" width="1639" height="2047" frameX="-383" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0000" x="8893" y="0" width="1437" height="1882" frameX="-345" frameY="-83" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0001" x="6987" y="6143" width="1437" height="1904" frameX="-345" frameY="-72" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0002" x="5550" y="6143" width="1437" height="1912" frameX="-345" frameY="-68" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0003" x="0" y="6143" width="1437" height="1986" frameX="-345" frameY="-31" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0004" x="0" y="0" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0005" x="1437" y="0" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0006" x="2874" y="0" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn In0007" x="0" y="2048" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0000" x="0" y="2048" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0001" x="2874" y="0" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0002" x="1437" y="0" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0003" x="0" y="0" width="1437" height="2048" frameX="-345" frameY="0" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0004" x="0" y="6143" width="1437" height="1986" frameX="-345" frameY="-31" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0005" x="5550" y="6143" width="1437" height="1912" frameX="-345" frameY="-68" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0006" x="6987" y="6143" width="1437" height="1904" frameX="-345" frameY="-72" frameWidth="2048" frameHeight="2048" />
+    <SubTexture name="Lost Pik Spawn Out0007" x="8893" y="0" width="1437" height="1882" frameX="-345" frameY="-83" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lost Pik Idle"
+		},
+		{
+			"offsets": [
+				-25,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Lost Pik Sing Down"
+		},
+		{
+			"offsets": [
+				-6,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lost Pik Sing Up"
+		},
+		{
+			"offsets": [
+				103,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lost Pik Sing Left"
+		},
+		{
+			"offsets": [
+				-96,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lost Pik Sing Right"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "spawnIn",
+			"loop": false,
+			"name": "Lost Pik Spawn In"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "spawnOut",
+			"loop": false,
+			"name": "Lost Pik Spawn Out"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lost Sliver Assets Pikachu",
+	"position": [
+		-10,
+		-590
+	],
+	"healthicon": "icon-pikaexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		583,
+		810
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

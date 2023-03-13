@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_youtube.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="youtube basic0000" x="0" y="0" width="582" height="178" frameX="0" frameY="-2" frameWidth="582" frameHeight="180"/>
+	<SubTexture name="youtube basic0001" x="582" y="0" width="582" height="168" frameX="0" frameY="-7" frameWidth="582" frameHeight="180"/>
+	<SubTexture name="youtube basic0002" x="1164" y="0" width="582" height="179" frameX="0" frameY="0" frameWidth="582" frameHeight="180"/>
+	<SubTexture name="youtube basic0003" x="0" y="179" width="582" height="167" frameX="0" frameY="-7" frameWidth="582" frameHeight="180"/>
+	<SubTexture name="youtube basic0004" x="582" y="179" width="582" height="177" frameX="0" frameY="-2" frameWidth="582" frameHeight="180"/>
+	<SubTexture name="youtube basic0005" x="1164" y="179" width="582" height="167" frameX="0" frameY="-7" frameWidth="582" frameHeight="180"/>
+	<SubTexture name="youtube white0000" x="0" y="356" width="618" height="218" frameX="-1" frameY="-8" frameWidth="624" frameHeight="234"/>
+	<SubTexture name="youtube white0001" x="618" y="356" width="618" height="230" frameX="-1" frameY="-2" frameWidth="624" frameHeight="234"/>
+	<SubTexture name="youtube white0002" x="1236" y="356" width="618" height="230" frameX="-6" frameY="-2" frameWidth="624" frameHeight="234"/>
+	<SubTexture name="youtube white0003" x="0" y="586" width="618" height="230" frameX="0" frameY="-2" frameWidth="624" frameHeight="234"/>
+	<SubTexture name="youtube white0004" x="618" y="586" width="618" height="216" frameX="0" frameY="-9" frameWidth="624" frameHeight="234"/>
+	<SubTexture name="youtube white0005" x="1236" y="586" width="618" height="234" frameX="0" frameY="0" frameWidth="624" frameHeight="234"/>
+	<SubTexture name="youtube white0006" x="0" y="820" width="618" height="198" frameX="0" frameY="-18" frameWidth="624" frameHeight="234"/>
+	<SubTexture name="youtube white0007" x="618" y="820" width="618" height="198" frameX="0" frameY="-18" frameWidth="624" frameHeight="234"/>
+</TextureAtlas>

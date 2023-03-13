@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				146,
+				193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathConfirm"
+		},
+		{
+			"offsets": [
+				73,
+				111
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				64,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Retry_Assets",
+	"position": [
+		1520,
+		1520
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-470,
+		-470
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

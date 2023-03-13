@@ -1,0 +1,32 @@
+{
+	"storyName": "lost pikachu",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "chrome",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Monochrome",
+			"pikaexe",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"mono",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekenter"
+}
